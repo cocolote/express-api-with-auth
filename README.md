@@ -9,9 +9,13 @@ This API design is easily expandable.
 **Environment Variables:**
 
 `API_JWT_SECRET: string` This is use to create jwt tokens.
+
 `API_DB_USER: string` The db user name to connect.
+
 `API_DB_PASS: string` User's password to connect.
+
 `API_DB_NAME: string` The database name.
+
 `API_DB_HOST: string` The database host name or DNS.
 
 **Database setup**
