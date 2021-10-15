@@ -1,0 +1,9 @@
+# database stuff
+database/dbdir
+
+# secret stuff
+.env*
+
+# vim buffer files
+*.swp
+*.swo
